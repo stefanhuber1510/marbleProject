@@ -3,6 +3,8 @@ drugCombDBdata/
 drugCentral/
 demonstration-ammar.ipynb
 allFeats2XrecordsFrame.pkl
+Sanger_molecular_data/
+Drug_info_release.csv
 
 
 # Byte-compiled / optimized / DLL files
