@@ -1,6 +1,24 @@
 This is Stefan's UCM Marble Project supervised by Ammar. Hi
 
 
+@ammar: featureSelection > dataStudy ipynb
+here I illustrate the data loss among others due to missing smiles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //delete the old commits
 
 
