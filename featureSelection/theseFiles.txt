@@ -1,0 +1,9 @@
+featureselection 2 - implements all 2D and 3D features and builds first trees/forests
+
+featureselection 3 implements MACCS Keys instead of traditional features
+
+data study is an outgrowth of featureselection3
+
+comparingMethods shows that the original data selection has made wrong conclusions
+
+cellRepresentations is the latest one adding cell information

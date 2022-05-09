@@ -19,9 +19,13 @@ old notebooks in main folder
 
 
 
+implement competition's evaluation metrics
+ch1scoring_fc.R
+
+MAKE BETTER DESCRIPTION WITH LINKS AND DOWNLOAD TIMES OF FILES
 
 
-
+apply dummyclassifier to both old model 500k data and new model 
 
 
 

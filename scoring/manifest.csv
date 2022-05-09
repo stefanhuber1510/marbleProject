@@ -1,0 +1,4 @@
+"ID","name","versionNumber","contentType","dataFileSizeBytes","createdBy","createdOn","modifiedBy","modifiedOn","parentId","synapseURL","dataFileMD5Hex"
+"syn5260496","ch2scoring_fc.R","8","text/x-r","2194","3324230","1447282010114","3324230","1462391136790","syn4991619","https://www.synapse.org/#!Synapse:syn5260496.8","94d5083bf344f44d549fde3b6fb8ac1c"
+"syn5986443","AZscoringWBayesFactorCh2.R","1","text/x-r","7255","3324230","1461563225792","3324230","1461563225792","syn4991619","https://www.synapse.org/#!Synapse:syn5986443.1","c3bc8e1369fa767c760ce59f522399d8"
+"syn5986442","AZscoringWBayesFactorCh1ab.R","1","text/x-r","7792","3324230","1461563212815","3324230","1461563212815","syn4991619","https://www.synapse.org/#!Synapse:syn5986442.1","789513285c604b99f1968a79c9ccf172"

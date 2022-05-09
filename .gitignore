@@ -6,6 +6,12 @@ Sanger_molecular_data/
 Drug_info_release.csv
 pickles/
 
+intermediate-pickles/
+output/
+
+drug_features.pkl
+final-Frame.pkl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
