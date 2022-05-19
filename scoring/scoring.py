@@ -1,6 +1,7 @@
 # input: obs is a Dataframe with 3 Columns: 1. A combination idx for the 2 drugs, y_test, pred
 def primaryMetric(obs):
     import numpy as np
+    import pandas as pd
     weighted_corr = []
     weights = []
     for i in set(obs['combination_idx']):
