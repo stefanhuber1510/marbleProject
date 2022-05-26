@@ -1,4 +1,4 @@
-This is Stefan's UCM Marble Project supervised by Ammar. Hi
+This is Stefan's UCM Marble Project supervised by Ammar.
 
 
 *Main folder of 1. Period: featureSelection*

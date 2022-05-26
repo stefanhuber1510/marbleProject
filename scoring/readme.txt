@@ -3,4 +3,7 @@ firstScoringTest.ipynb is the first beginning-to-end notebook that is well struc
 
 secondScoringTest.ipynb is a more concise version of it
 -it uses the same representations
--it 
+-it
+
+thirdScoringTest.ipynb is a literal copy of secondScoringTest
+-implements MACCS Keys instead of chem features
