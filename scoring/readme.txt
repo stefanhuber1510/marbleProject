@@ -7,3 +7,7 @@ secondScoringTest.ipynb is a more concise version of it
 
 thirdScoringTest.ipynb is a literal copy of secondScoringTest
 -implements MACCS Keys instead of chem features
+
+-scoring
+
+-reconstruct global classifier

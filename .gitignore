@@ -9,6 +9,7 @@ pickles/
 intermediate-pickles/
 intermediate-pickles-scoring2/
 output/
+ch1_training/
 
 drug_features.pkl
 final-Frame.pkl
